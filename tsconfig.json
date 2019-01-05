@@ -28,7 +28,7 @@
     "suppressImplicitAnyIndexErrors": true,
     "noUnusedLocals": true,
     "declaration": true,
-    "jsx": "react"
+    "jsx": "preserve"
   },
   "include": [
     "src"
